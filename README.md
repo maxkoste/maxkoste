@@ -14,7 +14,6 @@ Welcome to my GitHub! I'm **Max Koste**, I like building cool stuff.
 
 ![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxkoste&show_icons=true&hide_title=true&hide=prs)
 
-## 📂 Some of My Work
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/maxkoste/)
