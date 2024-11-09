@@ -11,5 +11,4 @@ Welcome to my GitHub! I'm **Max Koste**
 - **Dev Tools**: Git, GitHub, VS Code
 
 ## 🌐 Let's Connect
-- [LinkedIn](www.linkedin.com/in/maxkoste)
 - [Email](mailto:maxkoste@gmail.com)
