@@ -18,8 +18,3 @@ Welcome to my GitHub! I'm **Max Koste**, I like building cool stuff.
 ## 🌐 Let's Connect
 - [LinkedIn](www.linkedin.com/in/maxkoste)
 - [Email](mailto:maxkoste@gmail.com)
-
----
-
-#### Fun Fact:
-There are underwater waterfalls in the ocean, like the Denmark Strait cataract, which is the world’s largest waterfall 🌊
