@@ -1,6 +1,6 @@
 # Hey there, I'm Max 👋
 
-Welcome to my GitHub! I'm **Max Koste**
+Welcome to my GitHub! I'm **Max Koste**, computer science student and musician!
 
 ## 💻 What I'm up to right now
 - 🚀 Currently building **React** apps, playing with **TypeScript**, and diving deeper into **Node.js**
