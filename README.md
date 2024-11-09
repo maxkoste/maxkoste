@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm **Max Koste**, I like building cool stuff.
   
 ## 💪 My Tech Stack
 - **Languages**: TypeScript, Python, Java, R
-- **Dev Tools**: Git, GitHub, VS Code, Docker, Jest
+- **Dev Tools**: Git, GitHub, VS Code
 
 ## 📊 My GitHub Stats
 
