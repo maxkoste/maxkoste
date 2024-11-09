@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there, I'm Max 👋
 
-<!--
-**maxkoste/maxkoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm **Max Koste**, I like building cool stuff. 
 
-Here are some ideas to get you started:
+## 💻 What I'm up to right now
+- 🚀 Currently building **React** apps, playing with **TypeScript**, and diving deeper into **Node.js**
+- 🌱 Always learning — this year it's all about **Next.js**, **TailwindCSS**, and maybe finally mastering **Docker**.
+  
+## 💪 My Tech Stack
+- **Languages**: TypeScript, Python, Java, R
+- **Dev Tools**: Git, GitHub, VS Code, Docker, Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Stats
+
+![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxkoste&show_icons=true&hide_title=true&hide=prs)
+
+## 📂 Some of My Work
+
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/maxkoste/)
+- [Email](mailto:maxkoste@gmail.com)
+
+---
+
+#### Fun Fact:
+There are underwater waterfalls in the ocean, like the Denmark Strait cataract, which is the world’s largest waterfall 🌊
