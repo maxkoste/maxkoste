@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm **Max Koste**, I like building cool stuff.
 
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.[linkedin.com/in/maxkoste/](https://www.linkedin.com/in/max-k-a74795b9/))
+- [LinkedIn](https://www.[[linkedin.com/in/maxkoste/](https://www.linkedin.com/in/max-k-a74795b9/](https://www.linkedin.com/in/maxkoste/))
 - [Email](mailto:maxkoste@gmail.com)
 
 ---
