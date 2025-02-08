@@ -11,5 +11,5 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
 - **Learning**: C/C++, Rust
 - **Dev Tools**: Git, GitHub, Zed, VsCode, Iterm2, LazyVim, PlatformIO
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect!
 - [Email](mailto:maxkoste@gmail.com)
