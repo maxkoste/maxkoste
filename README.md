@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
 ## 💻 What I'm up to right now
 - Currently working on application architecture and backend with Java and python.
 - Learning C/C++ embedded software development with arduino and ESP32.
-- Experimenting with WebSockets to implement real-time communication between clients and servers, developing both WebSocket servers and client applications for interactive experiences.
+- Experimenting with WebSockets to implement real-time communication between clients and servers.
   
 ## 💪 My Tech Stack
 - **Languages**: Java, Python
