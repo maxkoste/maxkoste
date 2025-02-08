@@ -16,7 +16,8 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
 - **Currently Learning**:  
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"> 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"> 
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="30"> 
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" height="30">
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="LazyVim" height="30"> 
 
 - **Dev Tools**:  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"> 
@@ -24,7 +25,6 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="30"> 
   <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white" alt="Zed" height="30"> 
   <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm2" height="30"> 
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="LazyVim" height="30"> 
   <img src="https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" height="30"> 
 
 - **Database**:  
