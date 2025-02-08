@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
 - **Learning**: C/C++, Rust
 - **Dev Tools**: Git, GitHub, Zed, VsCode, Iterm2, LazyVim, PlatformIO
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?maxkoste=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maxkoste)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Let's Connect!
 - [Email](mailto:maxkoste@gmail.com)
