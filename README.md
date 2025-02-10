@@ -35,5 +35,3 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
 ## 🌐 Let's Connect!
 - [Email](mailto:maxkoste@gmail.com)
 
-## **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkoste&exclude_lang=HTML&layout=compact&count_private=true)
