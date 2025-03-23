@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
   
 ## 💪 My Tech Stack
 
-- **Efficient In:**:  
+- **Efficient In**:  
   <img src="https://img.shields.io/badge/Java-F8B700?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"> 
 
 - **Currently Learning**:  
