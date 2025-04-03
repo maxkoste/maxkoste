@@ -1,6 +1,6 @@
 # Hey there, I'm Max 👋
 
-Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö University and musician!
+Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at Malmö University!
 
 ## 💻 What I'm up to right now
 - Currently working on application architecture and backend development with **Java**
