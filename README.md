@@ -5,6 +5,7 @@ Welcome to my GitHub! I'm **Max Koste**, computer science student at Malmö Univ
 ## 💻 What I'm up to right now
 - Currently working on application architecture and backend development with **Java**
 - Learning **C/C++** embedded software development with **arduino** and **ESP32.**
+- Fooling around in **GO** since gorutines are the most fun thing ever
 - Experimenting with **WebSockets** and **HTTP protocols** to implement real-time communication between clients and servers.
 - Building webbsites with **React** and **Tailwindcss**
   
