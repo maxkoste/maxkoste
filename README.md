@@ -3,10 +3,8 @@
 Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at Malmö University!
 
 ## 💻 What I'm up to right now
-- Currently working on application architecture and backend development with **Java**
+- Currently developing a DJ application with **Java**, **Gradle** and **JavaFx**
 - Learning **C/C++** embedded software development with **arduino** and **ESP32.**
-- Fooling around in **GO** since gorutines are the most fun thing ever
-- Experimenting with **WebSockets** and **HTTP protocols** to implement real-time communication between clients and servers.
 - Building webbsites with **React** and **Tailwindcss**
   
 ## 💪 My Tech Stack
