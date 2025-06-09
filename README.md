@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at 
 - Learning **C/C++** embedded software development with **arduino** and **ESP32.**
 - Building webbsites with **React** and **Tailwindcss**
   
-## 💪 My Tech Stack
+## Tech Stack
 
 - **Efficient In**:  
   <img src="https://img.shields.io/badge/Java-F8B700?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"> 
