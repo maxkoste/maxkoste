@@ -17,7 +17,6 @@ Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at 
 - **Currently Learning**:  
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"> 
 
 - **Dev Tools**:
   
