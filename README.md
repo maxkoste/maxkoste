@@ -5,6 +5,7 @@ Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at 
 ## 💻 What I'm up to right now
 - Currently developing a DJ application with **Java**, **Gradle** and **JavaFx**
 - Developing a webb game with python using flask for the backend and JS for the frontend!
+- Porting game backend server from python to Go
 - Learning **C/C++** embedded software development with **arduino** and **ESP32.**
   
 ## Tech Stack
