@@ -1,7 +1,7 @@
-# Hello, I'm Max! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+# <h1> Hello, I'm Max! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at Malmö University!
-
+<p align="center">
 </a>
   <br><br>
   <a href="https://github.com/maxkoste">
@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at 
   <a href="https://github.com/maxkoste">
     <img align="center" src="./profile/top-langs.svg" />
   </a>
+</p>
 
 ## 💻 What I'm up to right now
 - Currently developing a DJ application with **Java**, **Gradle** and **JavaFx**
