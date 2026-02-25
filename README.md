@@ -1,4 +1,4 @@
-# Hello, I'm Max! <3
+# Hello, I'm Max! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at Malmö University!
 
