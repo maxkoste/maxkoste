@@ -4,10 +4,10 @@ Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at 
 <p align="center">
 </a>
   <br><br>
-  <a href="https://github.com/maxkoste">
+  <a href="[https://github.com/maxkoste](https://github-readme-stats.vercel.app/api?username=maxkoste&show_icons=true&theme=radical)">
   <img align="center" src="./profile/stats.svg" />
   </a>
-  <a href="https://github.com/maxkoste">
+  <a href="[https://github.com/maxkoste](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkoste&layout=compact&theme=radical)">
     <img align="center" src="./profile/top-langs.svg" />
   </a>
 </p>
