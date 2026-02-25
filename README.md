@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at 
     <img align="center" src="./profile/top-langs.svg" />
   </a>
 </p>
+<br>
 
 ## 💻 What I'm up to right now
 - Currently developing a DJ application with **Java**, **Gradle** and **JavaFx**
