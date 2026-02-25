@@ -2,6 +2,15 @@
 
 Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at Malmö University!
 
+</a>
+  <br><br>
+  <a href="https://github.com/maxkoste">
+  <img align="center" src="./profile/stats.svg" />
+  </a>
+  <a href="https://github.com/maxkoste">
+    <img align="center" src="./profile/top-langs.svg" />
+  </a>
+
 ## 💻 What I'm up to right now
 - Currently developing a DJ application with **Java**, **Gradle** and **JavaFx**
 - Developing a webb game with python using flask for the backend and JS for the frontend!
