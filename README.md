@@ -2,13 +2,11 @@
 
 Welcome to my GitHub! I'm **Max Koste**, musician & computer science student at Malmö University!
 <p align="center">
-</a>
-  <br><br>
-  <a href="[https://github.com/maxkoste](https://github-readme-stats.vercel.app/api?username=maxkoste&show_icons=true&theme=radical)">
-  <img align="center" src="./profile/stats.svg" />
+  <a href="https://github.com/maxkoste">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxkoste&show_icons=true&theme=radical" />
   </a>
-  <a href="[https://github.com/maxkoste](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkoste&layout=compact&theme=radical)">
-    <img align="center" src="./profile/top-langs.svg" />
+  <a href="https://github.com/maxkoste">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxkoste&layout=compact&theme=radical" />
   </a>
 </p>
 <br>
