@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a musician & computer science student at Malmö University!
 
 
-## 💻 What I'm up to right now
+## What I'm up to right now
 - Currently developing a DJ application with **Java**, **Gradle** and **JavaFx**
 - Developing a webb game with python using flask for the backend and JS for the frontend!
 - Contributing to a java based code editor called Zenit. 
@@ -33,6 +33,6 @@ Welcome to my GitHub! I'm a musician & computer science student at Malmö Univer
   <img src="https://img.shields.io/badge/SQL-006E4F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="30"> 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
 
-## 🌐 Let's Connect!
+## If you want to reach me:
 - [Email](mailto:maxkoste@gmail.com)
 
