@@ -16,10 +16,11 @@ Welcome to my GitHub! I'm a musician & computer science student at Malmö Univer
   <img src="https://img.shields.io/badge/Java-F8B700?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="30">
+  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" alt="Typescript" height="30"> 
+
 
 - **Currently Learning**:  
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"> 
 
 - **Dev Tools**:
   
